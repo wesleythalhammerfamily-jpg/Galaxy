@@ -1,5 +1,8 @@
 {
-  "name": "galaxy",
+  "engines": 
+  { "node": "20.x" 
+  },
+ "name": "galaxy",
   "version": "1.0.0",
   "description": "A stunning web proxy with support for many popular sites.",
   "repository": "https://github.com/cognetwork-dev/Galaxy.git",
